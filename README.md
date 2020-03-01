@@ -7,3 +7,4 @@ A simple starter
 - Tailwind CSS
     - Post CSS
     - AutoPrefixer
+- Font Awesome 
